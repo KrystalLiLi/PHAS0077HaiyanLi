@@ -22,6 +22,6 @@ KMC model. In CoverageRelationshipPlot.py, the output is a graph which shows the
 different temperatures.Therefore, we can select reasonable temperature and pressure as inputs of KMC simulation.By invoking KMCVSLangmuir.py, 
 the average coverage from KMC simulation and the coverage from the Langmuir isotherm calculation will come out automatically. By invoking LangmuirIsothermCalculation.py, the coverage from the Langmuir isotherm calculation will come out.
 
-contributor 
+Contributor 
 ---
 @KrystalLiLi

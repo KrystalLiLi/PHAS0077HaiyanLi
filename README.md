@@ -2,7 +2,7 @@
 ==========
 Background
 ---
-Kinetic Monte Carlo is a promising approach used to investigate phenomena on catalytic surfaces. In 
+Research on catalysts is always blossoming due to the increasing demand of improving efficiency and saving costs in productivity. The computational method Kinetic Monte Carlo exhibits excellent advantage in simulating and investigating chemical behaviours on catalytic surfaces. Thus, we employ the KMC to a few well-known chemical systems and non-reactive surface processes to explore its superiority.
 
 Usage
 ---
